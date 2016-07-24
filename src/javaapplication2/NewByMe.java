@@ -11,5 +11,5 @@ package javaapplication2;
  * @author filali
  */
 public class NewByMe {
-    
+    int OtherOneChangedThis ;
 }
